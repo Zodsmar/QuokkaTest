@@ -12,5 +12,16 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "quokka": {
+    "plugins": ["jsdom-quokka-plugin"],
+    "jsdom": {
+      "file": "./index.html",
+      "config": {
+        "runScripts": "dangerously",
+         "resources": "usable",
+         "url": "file:///D:/PLACEHOLDER/"
+        }
+    }
+  }
 }
