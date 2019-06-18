@@ -20,7 +20,7 @@
       "config": {
         "runScripts": "dangerously",
          "resources": "usable",
-         "url": "file:///D:/PLACEHOLDER/"
+         "url": "localhost"
         }
     }
   }
