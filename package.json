@@ -20,7 +20,7 @@
       "config": {
         "runScripts": "dangerously",
          "resources": "usable",
-         "url": "localhost"
+         "url": "file:///D:/VisualStudioCodeGitHub/QuokkaTest/"
         }
     }
   }
